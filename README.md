@@ -1,4 +1,4 @@
-# NLW06 Together
+# NLW HEAT
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/jeandossantos/NLW-Heat/blob/master/LICENSE) 
 ## Sobre o projeto
