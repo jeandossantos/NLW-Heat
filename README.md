@@ -1,6 +1,6 @@
 # NLW06 Together
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jeandossantos/NLW06-Together/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jeandossantos/NLW-Heat/blob/master/LICENSE) 
 ## Sobre o projeto
 
 Está aplicação foi desenvolvida NLW Heat, evento da rocketseat.
